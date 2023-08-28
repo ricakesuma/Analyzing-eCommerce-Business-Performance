@@ -85,3 +85,26 @@ Overall, the graphic shows that the company has been successful in attracting ne
 - Boleto also shows growth but at a slower pace compared to credit cards.
 - Debit Card usage is growing but not as popular as Boleto or Credit Card.
 - Voucher usage increased sharply in 2017 but saw a slight decline in 2018.
+
+### Conclusions:
+
+1. **Customer Growth**:
+    - The company has been successful in attracting new customers each year, with a significant increase in 2017 and 2018. However, it struggles with customer retention, as there are no repeat orders.
+2. **Revenue and Cancellations**:
+    - Total revenue has been consistently growing each year, with top categories changing from "Furniture Decor" to "Health Beauty." However, the number of canceled orders is also increasing, suggesting potential issues in certain product categories.
+3. **Payment Preferences**:
+    - Credit Card payments dominate the market, followed by Boleto. There's an increasing but still minimal usage of Debit Cards. Voucher usage has seen a decline.
+
+### Business Recommendations:
+
+1. **Focus on Customer Retention**:
+    - Implement loyalty programs or personalized marketing to encourage repeat purchases. 
+2. **Quality Control and Delivery**:
+    - Investigate the categories with high cancellations to identify if the issue lies in product quality or delivery services. 
+3. **Payment Options**:
+    - As Credit Cards are the most popular payment method, consider offering incentives for this payment method to increase conversions.
+4. **Product Category Analysis**:
+    - Pay attention to the top-selling and most-canceled categories. Stock more from the top-selling categories and investigate issues in the most-canceled ones.
+5. **Revise Voucher Strategy**:
+    - Given the slight decline in voucher usage, review the voucher strategy to understand whether it’s effectively driving sales or needs modification.
+By focusing on these areas, the company can aim to both attract new customers and, more importantly, retain existing ones. This balanced focus will be key to sustainable growth.
