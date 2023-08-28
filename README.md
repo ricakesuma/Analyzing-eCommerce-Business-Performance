@@ -55,3 +55,33 @@ Overall, the graphic shows that the company has been successful in attracting ne
 - **2017**: The number of cancelled orders increases to 265, with "Sports Leisure" being the most cancelled category. This could point to issues related to product quality or delivery in this specific category.
   
 - **2018**: Cancelled orders further increase to 334. Interestingly, the "Health Beauty" category is both the top-selling and most cancelled category, suggesting the need for a deeper look into this category.
+
+![Annual Customer Activity Growth Analysis](https://github.com/ricakesuma/Analyzing-eCommerce-Business-Performance/blob/main/Step%2004/Picture1.png)
+#### 1. Boleto:
+- **2016**: There were 63 transactions made using Boleto.
+- **2017**: A significant increase to 9,508 transactions, indicating a growing trust or convenience in this payment method.
+- **2018**: A slight increase to 10,213 transactions, showing that Boleto maintains its popularity.
+
+#### 2. Credit Card:
+- **2016**: There were 258 credit card transactions.
+- **2017**: A significant jump to 34,568 transactions, indicating either a surge in customer numbers or a preference shift towards credit cards.
+- **2018**: Further increase to 41,969 transactions, solidifying credit cards as the most popular payment method.
+
+#### 3. Debit Card:
+- **2016**: Only 2 transactions, indicating extremely low usage.
+- **2017**: Increases to 422, but still relatively low compared to other payment methods.
+- **2018**: A more substantial increase to 1,105 transactions, but still not as popular as other methods.
+
+#### 4. Not Defined:
+- **2016-2018**: Almost no transactions, indicating that this category is rarely or never used.
+
+#### 5. Voucher:
+- **2016**: 23 transactions.
+- **2017**: Increases to 3,027, showing significant growth.
+- **2018**: Slightly decreases to 2,725 transactions, indicating a possible drop in voucher promotions or user interest.
+
+#### Key Takeaways:
+- Credit Card is the most popular payment method and shows consistent growth.
+- Boleto also shows growth but at a slower pace compared to credit cards.
+- Debit Card usage is growing but not as popular as Boleto or Credit Card.
+- Voucher usage increased sharply in 2017 but saw a slight decline in 2018.
