@@ -26,6 +26,7 @@ Analyzing eCommerce Business Performance with SQL. In this Mini Project, a membe
 Display detailed information on the usage count of each payment type for each year.
 
 ### Interpretation
+#### Annual Customer Activity Growth Analysis
 ![Annual Customer Activity Growth Analysis](https://github.com/ricakesuma/Analyzing-eCommerce-Business-Performance/blob/main/Step%2002/download%20(2).png)
 
 #### 1. Number of New Customers
@@ -41,6 +42,7 @@ Display detailed information on the usage count of each payment type for each ye
 
 Overall, the graphic shows that the company has been successful in attracting new customers but has not been successful in retaining existing ones. This is a signal for the company to start or deepen its customer retention strategy.
 
+### Annual Product Category Quality Analysis
 ![Annual Customer Activity Growth Analysis](https://github.com/ricakesuma/Analyzing-eCommerce-Business-Performance/blob/main/Step%2003/download.png)
 #### 1. Total Revenue by Year
 - **2016**: The total revenue is approximately 46,654 units, which suggests that this might be the initial phase of the business. The top-selling product category is "Furniture Decor."
@@ -56,6 +58,7 @@ Overall, the graphic shows that the company has been successful in attracting ne
   
 - **2018**: Cancelled orders further increase to 334. Interestingly, the "Health Beauty" category is both the top-selling and most cancelled category, suggesting the need for a deeper look into this category.
 
+### Annual Payment Type Usage Analysis
 ![Annual Customer Activity Growth Analysis](https://github.com/ricakesuma/Analyzing-eCommerce-Business-Performance/blob/main/Step%2004/Picture1.png)
 #### 1. Boleto:
 - **2016**: There were 63 transactions made using Boleto.
